@@ -27,8 +27,8 @@
 }
 
 .infoBox__total{
-    color: #6c757d;
-    font-weight: 700;
-    font-size: 0.8rem;
-    margin-top: 15px;
+    color: #cc1034 ;
+    font-weight: 600 !important;
+    font-size: 1.75rem !important;
+    margin-top: 15px !important;
 }
